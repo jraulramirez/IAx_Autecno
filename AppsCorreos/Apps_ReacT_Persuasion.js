@@ -72,4 +72,5 @@ ${cuerpo}`;
   );
 };
 
+
 export default PersuasionGPT;
